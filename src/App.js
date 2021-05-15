@@ -7,9 +7,9 @@ class App extends Component {
 
   state = {
     Preson: {
-      fullName: 'Harrouche Amir',
+      fullName: 'beghadid fateh',
       bio: 'https//:www.bio.com',
-      profession: 'Web Developer',
+      profession: 'full stack web dev',
       imgSrc: profilePic,
     },
     show: false,
